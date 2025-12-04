@@ -1,0 +1,265 @@
+{
+  "num_pairs": 26,
+  "pairs": [
+    {
+      "city": "1Kremenchuk",
+      "img1": "data\\onera-dataset\\1Kremenchuk\\pair\\img1.png",
+      "img2": "data\\onera-dataset\\1Kremenchuk\\pair\\img2.png",
+      "shape": [
+        343,
+        343,
+        3
+      ]
+    },
+    {
+      "city": "2Kremenchuk",
+      "img1": "data\\onera-dataset\\2Kremenchuk\\pair\\img1.png",
+      "img2": "data\\onera-dataset\\2Kremenchuk\\pair\\img2.png",
+      "shape": [
+        343,
+        343,
+        3
+      ]
+    },
+    {
+      "city": "abudhabi",
+      "img1": "data\\onera-dataset\\abudhabi\\pair\\img1.png",
+      "img2": "data\\onera-dataset\\abudhabi\\pair\\img2.png",
+      "shape": [
+        799,
+        785,
+        3
+      ]
+    },
+    {
+      "city": "aguasclaras",
+      "img1": "data\\onera-dataset\\aguasclaras\\pair\\img1.png",
+      "img2": "data\\onera-dataset\\aguasclaras\\pair\\img2.png",
+      "shape": [
+        471,
+        525,
+        3
+      ]
+    },
+    {
+      "city": "beihai",
+      "img1": "data\\onera-dataset\\beihai\\pair\\img1.png",
+      "img2": "data\\onera-dataset\\beihai\\pair\\img2.png",
+      "shape": [
+        902,
+        772,
+        3
+      ]
+    },
+    {
+      "city": "beirut",
+      "img1": "data\\onera-dataset\\beirut\\pair\\img1.png",
+      "img2": "data\\onera-dataset\\beirut\\pair\\img2.png",
+      "shape": [
+        1180,
+        1070,
+        3
+      ]
+    },
+    {
+      "city": "bercy",
+      "img1": "data\\onera-dataset\\bercy\\pair\\img1.png",
+      "img2": "data\\onera-dataset\\bercy\\pair\\img2.png",
+      "shape": [
+        395,
+        360,
+        3
+      ]
+    },
+    {
+      "city": "bordeaux",
+      "img1": "data\\onera-dataset\\bordeaux\\pair\\img1.png",
+      "img2": "data\\onera-dataset\\bordeaux\\pair\\img2.png",
+      "shape": [
+        517,
+        461,
+        3
+      ]
+    },
+    {
+      "city": "brasilia",
+      "img1": "data\\onera-dataset\\brasilia\\pair\\img1.png",
+      "img2": "data\\onera-dataset\\brasilia\\pair\\img2.png",
+      "shape": [
+        433,
+        469,
+        3
+      ]
+    },
+    {
+      "city": "chongqing",
+      "img1": "data\\onera-dataset\\chongqing\\pair\\img1.png",
+      "img2": "data\\onera-dataset\\chongqing\\pair\\img2.png",
+      "shape": [
+        730,
+        544,
+        3
+      ]
+    },
+    {
+      "city": "cupertino",
+      "img1": "data\\onera-dataset\\cupertino\\pair\\img1.png",
+      "img2": "data\\onera-dataset\\cupertino\\pair\\img2.png",
+      "shape": [
+        1015,
+        788,
+        3
+      ]
+    },
+    {
+      "city": "dubai",
+      "img1": "data\\onera-dataset\\dubai\\pair\\img1.png",
+      "img2": "data\\onera-dataset\\dubai\\pair\\img2.png",
+      "shape": [
+        774,
+        634,
+        3
+      ]
+    },
+    {
+      "city": "hongkong",
+      "img1": "data\\onera-dataset\\hongkong\\pair\\img1.png",
+      "img2": "data\\onera-dataset\\hongkong\\pair\\img2.png",
+      "shape": [
+        695,
+        540,
+        3
+      ]
+    },
+    {
+      "city": "lasvegas",
+      "img1": "data\\onera-dataset\\lasvegas\\pair\\img1.png",
+      "img2": "data\\onera-dataset\\lasvegas\\pair\\img2.png",
+      "shape": [
+        824,
+        716,
+        3
+      ]
+    },
+    {
+      "city": "milano",
+      "img1": "data\\onera-dataset\\milano\\pair\\img1.png",
+      "img2": "data\\onera-dataset\\milano\\pair\\img2.png",
+      "shape": [
+        545,
+        558,
+        3
+      ]
+    },
+    {
+      "city": "montpellier",
+      "img1": "data\\onera-dataset\\montpellier\\pair\\img1.png",
+      "img2": "data\\onera-dataset\\montpellier\\pair\\img2.png",
+      "shape": [
+        426,
+        451,
+        3
+      ]
+    },
+    {
+      "city": "mumbai",
+      "img1": "data\\onera-dataset\\mumbai\\pair\\img1.png",
+      "img2": "data\\onera-dataset\\mumbai\\pair\\img2.png",
+      "shape": [
+        858,
+        557,
+        3
+      ]
+    },
+    {
+      "city": "nantes",
+      "img1": "data\\onera-dataset\\nantes\\pair\\img1.png",
+      "img2": "data\\onera-dataset\\nantes\\pair\\img2.png",
+      "shape": [
+        522,
+        582,
+        3
+      ]
+    },
+    {
+      "city": "norcia",
+      "img1": "data\\onera-dataset\\norcia\\pair\\img1.png",
+      "img2": "data\\onera-dataset\\norcia\\pair\\img2.png",
+      "shape": [
+        241,
+        385,
+        3
+      ]
+    },
+    {
+      "city": "paris",
+      "img1": "data\\onera-dataset\\paris\\pair\\img1.png",
+      "img2": "data\\onera-dataset\\paris\\pair\\img2.png",
+      "shape": [
+        408,
+        390,
+        3
+      ]
+    },
+    {
+      "city": "pisa",
+      "img1": "data\\onera-dataset\\pisa\\pair\\img1.png",
+      "img2": "data\\onera-dataset\\pisa\\pair\\img2.png",
+      "shape": [
+        776,
+        718,
+        3
+      ]
+    },
+    {
+      "city": "rennes",
+      "img1": "data\\onera-dataset\\rennes\\pair\\img1.png",
+      "img2": "data\\onera-dataset\\rennes\\pair\\img2.png",
+      "shape": [
+        339,
+        563,
+        3
+      ]
+    },
+    {
+      "city": "rio",
+      "img1": "data\\onera-dataset\\rio\\pair\\img1.png",
+      "img2": "data\\onera-dataset\\rio\\pair\\img2.png",
+      "shape": [
+        353,
+        426,
+        3
+      ]
+    },
+    {
+      "city": "saclay_e",
+      "img1": "data\\onera-dataset\\saclay_e\\pair\\img1.png",
+      "img2": "data\\onera-dataset\\saclay_e\\pair\\img2.png",
+      "shape": [
+        639,
+        688,
+        3
+      ]
+    },
+    {
+      "city": "saclay_w",
+      "img1": "data\\onera-dataset\\saclay_w\\pair\\img1.png",
+      "img2": "data\\onera-dataset\\saclay_w\\pair\\img2.png",
+      "shape": [
+        639,
+        688,
+        3
+      ]
+    },
+    {
+      "city": "valencia",
+      "img1": "data\\onera-dataset\\valencia\\pair\\img1.png",
+      "img2": "data\\onera-dataset\\valencia\\pair\\img2.png",
+      "shape": [
+        458,
+        476,
+        3
+      ]
+    }
+  ]
+}
